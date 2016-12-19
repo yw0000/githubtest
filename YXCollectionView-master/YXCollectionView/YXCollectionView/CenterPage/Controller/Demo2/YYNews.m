@@ -18,7 +18,7 @@
     }
     return self;
 }
-
+//jjjjjjj
 +(id)newsWithDict:(NSDictionary *)dict{
     return [[self alloc] initWithDict:dict];
 }
