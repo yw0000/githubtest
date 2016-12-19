@@ -26,6 +26,11 @@
         [self addSubview:_titleLabel];
     }
     return self;
+    
+    
+    
+    
+    
 }
 
 - (void)layoutSubviews{
